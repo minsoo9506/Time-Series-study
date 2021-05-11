@@ -1,4 +1,5 @@
 - 2020.06.25~2020.07.14 약 3주기간의 공부
+- https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 - kernel과 discussion을 읽어보는데 조금 더 집중
 - 기본적인 FE와 model stacking연습
 - 기존 train set의 target을 뒤로 shift하여 prediction하는 방법

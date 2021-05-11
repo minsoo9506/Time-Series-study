@@ -30,4 +30,6 @@
 - key word : CNN, RNN, Attetion, Multi-horizon(iterative, direct), hybird(probabilistic, non probabilistic), Interpretation, Causal
 
 # Project
-- [kaggle predict future sale](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+- kaggle predict future sale
+  - 2020.06
+  - traditionl method (`arima`), ML (`boosting`)
