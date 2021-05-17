@@ -1,6 +1,6 @@
 # Lecture
 - Yonsei Univ. Time Series Analysis (undergraduate class)
-- (udemy) lecture
+- Udemy lecture
     - time series with pandas
     - time series with statsmodels
     - general model (ARIMA)
@@ -27,9 +27,13 @@
 - Time-series Generative Adversarial Networks
     - [`Paper Link`](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | `My summary` | `My Code`
 ### Forecasting
-- key word : CNN, RNN, Attetion, Multi-horizon(iterative, direct), hybird(probabilistic, non probabilistic), Interpretation, Causal
+- key word : `CNN`, `RNN`, `Attetion`, `Multi-horizon(iterative, direct)`, `hybird(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
+- Conditional Time Series Forecasting with Convolutional Neural Networks (arxiv 2018)
+  - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./My%20code)  
 
 # Project
 - kaggle predict future sale
   - 2020.06
   - traditionl method (`arima`), ML (`boosting`)
+- Dacon 전력사용예측 (진행중)
+  - `Dilated CNN`
