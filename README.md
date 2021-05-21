@@ -27,13 +27,19 @@
 - Time-series Generative Adversarial Networks
     - [`Paper Link`](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | `My summary` | `My Code`
 ### Forecasting
-- key word : `CNN`, `RNN`, `Attetion`, `Multi-horizon(iterative, direct)`, `hybird(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
+- key word : `CNN`, `RNN`, `Attention`, `Multi-horizon(iterative, direct)`, `hybrid(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
 - Conditional Time Series Forecasting with Convolutional Neural Networks (arxiv 2018)
   - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./My%20code)  
 
 # Project
-- kaggle predict future sale
+- Kaggle predict future sale
   - 2020.06
-  - traditionl method (`arima`), ML (`boosting`)
+  - `Arima`, `Boosting`
+- 2020 금융 빅데이터 페스티벌 미래에셋대우
+  - 2020.08
+  - 주식거래내역으로 매수 상위종목 예측
+  - `Linear model`, `Boosting`, `Neural Net` ,`BayesianOptimization`, `SHAP`
 - Dacon 전력사용예측 (진행중)
+  - 2021.05 ~
+  - 딥러닝 논문 구현
   - `Dilated CNN`
