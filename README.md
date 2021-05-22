@@ -29,12 +29,12 @@
 ### Forecasting
 - key word : `CNN`, `RNN`, `Attention`, `Multi-horizon(iterative, direct)`, `hybrid(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
 - Conditional Time Series Forecasting with Convolutional Neural Networks (arxiv 2018)
-  - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./My%20code)  
+  - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./[[Project]%20Dacon%20전력%20사용량%20예측/../[Project]%20Dacon%20전력%20사용량%20예측/models/DilatedCNN.py])  
 
 # Project
 - Kaggle predict future sale
   - 2020.06
-  - `Arima`, `Boosting`
+  - `Arima`, `Boos
 - 2020 금융 빅데이터 페스티벌 미래에셋대우
   - 2020.08
   - 주식거래내역으로 매수 상위종목 예측

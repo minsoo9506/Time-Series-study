@@ -1,7 +1,8 @@
+import torch
 from torch.utils.data import Dataset
+from torchvision import transforms
 import numpy as np
 
-BATCH_SIZE = 7
 FEATURE_DIM = 6
 TIME_SEQ = 24
 TARGET_COL_IDX = 0
@@ -25,11 +26,12 @@ def split_multivariate_sequence(data: np.array, time_seq: int=TIME_SEQ, target_c
 
 class MultivariateCnnDataset(Dataset):
     def __init__(self, data, target):
-        self.data = data
-        self.target = target
+        super().__init__()
+        self.data = torch.tensor(data, dtype=torch.float32)
+        self.target = torch.tensor(target, dtype=torch.float32)
     
     def __len__(self):
-        return len(self.data.shape[0])
+        return self.data.shape[0]
     
     def __getitem__(self,idx):
         X = self.data[idx]
