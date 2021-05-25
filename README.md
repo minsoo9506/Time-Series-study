@@ -25,7 +25,7 @@
     - [`Paper Link`](https://arxiv.org/abs/2004.13408) | `My Summary` | `My Code`
 ### Generative model
 - Time-series Generative Adversarial Networks
-    - [`Paper Link`](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | `My summary` | `My Code`
+    - [`Paper Link`](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | [`My summary`]((https://minsoo9506.github.io/blog/TimeGAN/)) | `My Code`
 ### Forecasting
 - key word : `CNN`, `RNN`, `Attention`, `Multi-horizon(iterative, direct)`, `hybrid(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
 - Conditional Time Series Forecasting with Convolutional Neural Networks (arxiv 2018)
@@ -34,7 +34,7 @@
 # Project
 - Kaggle predict future sale
   - 2020.06
-  - `Arima`, `Boos
+  - `Arima`, `Boosting`
 - 2020 금융 빅데이터 페스티벌 미래에셋대우
   - 2020.08
   - 주식거래내역으로 매수 상위종목 예측
