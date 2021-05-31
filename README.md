@@ -41,5 +41,5 @@
   - `Linear model`, `Boosting`, `Neural Net` ,`BayesianOptimization`, `SHAP`
 - Dacon 전력사용예측 (진행중)
   - 2021.05 ~
-  - 딥러닝 논문 구현
-  - `Dilated CNN`
+  - 딥러닝 논문 구현 프로젝트
+  - `Dilated CNN`, `VanillaTransformer`
