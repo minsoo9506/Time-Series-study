@@ -29,7 +29,7 @@
 ### Forecasting
 - key word : `CNN`, `RNN`, `Attention`, `Multi-horizon(iterative, direct)`, `hybrid(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
 - Conditional Time Series Forecasting with Convolutional Neural Networks (arxiv 2018)
-  - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./[[Project]%20Dacon%20전력%20사용량%20예측/../[Project]%20Dacon%20전력%20사용량%20예측/models/DilatedCNN.py])  
+  - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./[[Project]%20논문%20구현])  
 
 # Project
 - Kaggle predict future sale
@@ -39,7 +39,7 @@
   - 2020.08
   - 주식거래내역으로 매수 상위종목 예측
   - `Linear model`, `Boosting`, `Neural Net` ,`BayesianOptimization`, `SHAP`
-- Dacon 전력사용예측 (진행중)
+- 딥러닝 논문 구현 프로젝트 (진행중)
   - 2021.05 ~
-  - 딥러닝 논문 구현 프로젝트
   - `Dilated CNN`, `VanillaTransformer`
+  - data : Dacon 전력사용예측
