@@ -23,6 +23,8 @@
 ### Survey
 - Time Series Forecasting With Deep Learning: A Survey (2020)
     - [`Paper Link`](https://arxiv.org/abs/2004.13408) | `My Summary` | `My Code`
+- An Experimental Review on Deep Learning Architecture for Time Series Forecasting (2020)
+    - [`Paper Link`](https://arxiv.org/abs/2103.12057) | `My Summary` | `My Code`
 ### Generative model
 - Time-series Generative Adversarial Networks
     - [`Paper Link`](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | [`My summary`]((https://minsoo9506.github.io/blog/TimeGAN/)) | `My Code`
@@ -30,6 +32,8 @@
 - key word : `CNN`, `RNN`, `Attention`, `Multi-horizon(iterative, direct)`, `hybrid(probabilistic, non probabilistic)`, `Interpretation`, `Causal`
 - Conditional Time Series Forecasting with Convolutional Neural Networks (arxiv 2018)
   - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./[[Project]%20논문%20구현])  
+- DeepAR : Probabilistic Forecasting with Autoregressive Recurrent Networks (2017)
+  - [`Paper Link`](https://arxiv.org/abs/1704.04110) | `My summary` | [`My Code`](./[[Project]%20논문%20구현])
 
 # Project
 - Kaggle predict future sale
@@ -41,5 +45,5 @@
   - `Linear model`, `Boosting`, `Neural Net` ,`BayesianOptimization`, `SHAP`
 - 딥러닝 논문 구현 프로젝트 (진행중)
   - 2021.05 ~
-  - `Dilated CNN`, `VanillaTransformer`
   - data : Dacon 전력사용예측
+  - `Dilated CNN`, `VanillaTransformer`, `DeepAR`

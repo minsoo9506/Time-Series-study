@@ -3,7 +3,7 @@ import argparse
 import torch
 import pytorch_lightning as pl
 from models.DilatedCNN import CNNForecasting
-from load_data.lit_dataloader import BaseDataModule
+from load_data.lit_dataloader import CNNDataModule
 from lit_models.lit_CNN_based import CNNLitModel
 
 def define_argparser():
@@ -28,9 +28,8 @@ def define_argparser():
 
     return config
 
-
 def main(config):
-    data = BaseDataModule(config)
+    data = CNNDataModule(config)
     model = CNNForecasting(config)
 
     if config.load_checkpoint is not None:
