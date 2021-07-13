@@ -34,6 +34,30 @@
   - [`Paper Link`](https://arxiv.org/abs/1703.04691) | `My summary` | [`My Code`](./[[Project]%20논문%20구현])  
 - DeepAR : Probabilistic Forecasting with Autoregressive Recurrent Networks (2017)
   - [`Paper Link`](https://arxiv.org/abs/1704.04110) | `My summary` | [`My Code`](./[[Project]%20논문%20구현])
+- A Hybrid CNN-LSTM Model for Forecasting Particulate Matter (2020)
+  - [`Paper Link`](https://ieeexplore.ieee.org/abstract/document/8979420) | `My summary` | `My Code`
+- Probabilistic Time Series Forecasting with Structured Shape and Temporal Diversity (NIPS 2020)
+  - [`Paper Link`](https://proceedings.neurips.cc//paper/2020/file/2f2b265625d76a6704b08093c652fd79-Paper.pdf) | `My summary` | `My Code`
+- N-BEATS : Neural Basis Expansion Analysis for Interpretable Time Series Forecasting (ICLR 2020)
+  - [`Paper Link`](https://iclr.cc/virtual_2020/poster_r1ecqn4YwB.html) | `My summary` | `My Code`
+
+### Uncertainty
+- Deep and Confident Prediction for Time Series at Uber (2017)
+  - [`Paper Link`](https://arxiv.org/abs/1709.01907) | `My summary` | `My Code`
+- Deep Uncertainty Quantification : A Machine Learning Approach for Weather Forecasting (2018)
+  - [`Paper Link`](https://arxiv.org/abs/1812.09467) | `My summary` | `My Code`
+
+### Representation Learning
+- Unsupervised Scalable Representation Learning for Multivariate Time Series (NIPS 2019)
+  - [`Paper Link`](https://arxiv.org/abs/1901.10738) | `My summary` | `My Code`
+- Learning Representations for Time Series Clustering (NIPS 2019)
+  - [`Paper Link`](https://papers.nips.cc/paper/2019/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html) | `My summary` | `My Code`
+
+### Classification
+- Multivariate LSTM-FCNs for Time Series Classification (2018)
+  - [`Paper Link`](https://arxiv.org/abs/1801.04503) | `My summary` | `My Code`
+- Deep Neural Network Ensembles for Time Series Classification (2019)
+  - [`Paper Link`](https://arxiv.org/abs/1903.06602) | `My summary` | `My Code`
 
 # Project
 - Kaggle predict future sale
