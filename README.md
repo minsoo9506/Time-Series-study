@@ -59,15 +59,20 @@
 - Deep Neural Network Ensembles for Time Series Classification (2019)
   - [`Paper Link`](https://arxiv.org/abs/1903.06602) | `My summary` | `My Code`
 
+### Time sequential simulation
+- Photovoltaic Time Series Aggregation Method Based on K-means and MCMC Algorithm (2020 APPEEC)
+  - [`Paper Link`](https://ieeexplore.ieee.org/abstract/document/9220338) | `My summary` | `My Code`
+
 # Project
 - Kaggle predict future sale
-  - 2020.06
+  - 2020.06 ~ 2020.06
   - `Arima`, `Boosting`
 - 2020 금융 빅데이터 페스티벌 미래에셋대우
-  - 2020.08
+  - 2020.08 ~ 2020.10
   - 주식거래내역으로 매수 상위종목 예측
   - `Linear model`, `Boosting`, `Neural Net` ,`BayesianOptimization`, `SHAP`
 - 딥러닝 논문 구현 프로젝트 (진행중)
   - 2021.05 ~
   - data : Dacon 전력사용예측
+  - 딥러닝 알고리즘 구현 연습 (`pytorch`, `wandb`, `pytorch lightning`)
   - `Dilated CNN`, `VanillaTransformer`, `DeepAR`
