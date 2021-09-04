@@ -66,13 +66,17 @@
 # Project
 - Kaggle predict future sale
   - 2020.06 ~ 2020.06
+  - 물품별 판매량 예측
   - `Arima`, `Boosting`
 - 2020 금융 빅데이터 페스티벌 미래에셋대우
   - 2020.08 ~ 2020.10
   - 주식거래내역으로 매수 상위종목 예측
   - `Linear model`, `Boosting`, `Neural Net` ,`BayesianOptimization`, `SHAP`
-- 딥러닝 논문 구현 프로젝트 (진행중)
-  - 2021.05 ~
-  - data : Dacon 전력사용예측
+- 딥러닝 논문 구현 프로젝트
+  - 2021.05 ~ 2021.07
+  - Dacon 전력사용예측 데이터 활용
   - 딥러닝 알고리즘 구현 연습 (`pytorch`, `wandb`, `pytorch lightning`)
   - `Dilated CNN`, `VanillaTransformer`, `DeepAR`
+- 2021 농산물 가격예측 AI 경진대회 (진행중)
+  - 2021.09 ~
+  - 농산물 가격 예측
