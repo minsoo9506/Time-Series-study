@@ -77,6 +77,3 @@
   - Dacon 전력사용예측 데이터 활용
   - 딥러닝 알고리즘 구현 연습 (`pytorch`, `wandb`, `pytorch lightning`)
   - `Dilated CNN`, `VanillaTransformer`, `DeepAR`
-- 2021 농산물 가격예측 AI 경진대회 (진행중)
-  - 2021.09 ~
-  - 농산물 가격 예측
